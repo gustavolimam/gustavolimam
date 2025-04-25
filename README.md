@@ -78,7 +78,7 @@ I'm currently dedicated to developing **productivity applications** using **Swif
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimam&theme=transparent&layout=compact&custom_title=Techs&langs_count=9" 
   />
 
 </p>
