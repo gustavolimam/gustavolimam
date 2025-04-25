@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a software engineer with over **6 years of experience**, with a primary focus on **back-end**.  
+I'm a brazilian software engineer with over **6 years of experience**, with a primary focus on **back-end**.  
 I'm currently dedicated to developing **productivity applications** using **Swift** and **SwiftUI**, integrating **Artificial Intelligence** to boost efficiency while deepening my expertise.
 
 <p align="left">
@@ -10,7 +10,7 @@ I'm currently dedicated to developing **productivity applications** using **Swif
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavolimam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/gustavolimam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
